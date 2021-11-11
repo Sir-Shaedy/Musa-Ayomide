@@ -1,6 +1,17 @@
-Hello World 👋🏽
+Hello 👋🏽
 
- #Welcome to my world!
+ Welcome to my world!
 -----------------
-   I'm Musa Ayomide, a student of Mechanical Engineering department who is so much in love with computer programming.
+✅ **Musa Ayomide** is currently a Front-end developer and a Software Developer. I do affiliate marketing during my free time. <br/>
+ 
+✅ **Musa Ayomide** is a Mechanical Engineering student at The Bells University of Technology, Ota, Nigeria.
 
+------------
+My skills
+---------
+1) HTML 💻
+2) CSS ➡️Bootstraps and Tailwind⬅️
+3) Javascript 👨‍💻
+4) C
+5) C++
+6) Python
