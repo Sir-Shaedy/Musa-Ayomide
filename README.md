@@ -2,9 +2,16 @@ Hello 👋🏽
 
  Welcome to my world!
 -----------------
-✅ **Musa Ayomide** is currently a Front-end developer and a Software Developer. I do affiliate marketing during my free time. <br/>
- 
-✅ **Musa Ayomide** is a Mechanical Engineering student at The Bells University of Technology, Ota, Nigeria.
+
+**Musa Ayomide** is<br/>
+
+• Currently a Front-end developer and a Software Developer.  <br/>
+
+• A Mechanical Engineering student at The Bells University of Technology, Ota, Nigeria. <br/>
+
+• A proficient Affiliate Marketer. <br/>
+
+• A Rotaractor at Rotary international Organization.
 
 ------------
 My skills
