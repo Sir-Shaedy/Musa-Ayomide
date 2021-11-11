@@ -9,9 +9,9 @@ Hello 👋🏽
 ------------
 My skills
 ---------
-1) HTML 💻
-2) CSS ➡️Bootstraps and Tailwind⬅️
+1) HTML 👨‍💻
+2) CSS (Bootstraps and Tailwind) 👨‍💻
 3) Javascript 👨‍💻
-4) C
-5) C++
-6) Python
+4) C 👨‍💻
+5) C++ 👨‍💻
+6) Python 👨‍💻
