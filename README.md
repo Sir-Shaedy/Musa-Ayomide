@@ -22,3 +22,9 @@ My skills
 4) C 
 5) C++ 
 6) Python 
+
+-------
+Connect With Me
+------
+> Twitter: https://www.twitter.com/MacGil_Dura <br/>
+> Linkedin: https://www.linkedin.com/in/ayomide-idris-musa-41889b223
