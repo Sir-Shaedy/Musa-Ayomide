@@ -3,9 +3,7 @@ Hi
  Welcome to my world!
 -----------------
 
-**Musa Ayomide** is<br/>
-
-a Systems Engineer and a Blockchain developer.  <br/>
+**I** am a Systems Engineer and a Blockchain developer.
 
 ------------
 My skills
@@ -19,4 +17,3 @@ My skills
 Connect With Me
 ------
 > Twitter: https://www.twitter.com/0xShaedyW <br/>
-> Linkedin: https://www.linkedin.com/in/ayomide-idris-musa-41889b223
